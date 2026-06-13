@@ -1,5 +1,5 @@
 ![MASS-UBMATF](https://img.shields.io/badge/MASS--UBMATF-Computational_Astrobiology_2026-blue)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20680424.svg)](https://doi.org/10.5281/zenodo.20680424)
 
 
 # Deep Learning Detection of Exoplanet Transits in PSLS-Simulated PLATO Light Curves
